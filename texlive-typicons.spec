@@ -1,6 +1,6 @@
 Name:		texlive-typicons
 Version:	37623
-Release:	1
+Release:	2
 Summary:	Font containing a set of web-related icons
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typicons
