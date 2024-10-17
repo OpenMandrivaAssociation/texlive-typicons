@@ -3,7 +3,7 @@ Version:	37623
 Release:	2
 Summary:	Font containing a set of web-related icons
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typicons
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/typicons
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/typicons.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/typicons.doc.r%{version}.tar.xz
